@@ -126,6 +126,8 @@ body {
   font-size: 1.6rem;
   line-height: 1.75;
   overflow: hidden;
+  justify-content: center;
+
 }
 
 body.loaded { overflow: overlay; }
@@ -993,5 +995,10 @@ font-weight: var(--fw-700); }
   .hero-title { word-break: normal; }
 
   .hero .section-text { margin-block-end: 52px; }
+
+}
+
+
+
 
 }
